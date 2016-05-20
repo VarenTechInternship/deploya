@@ -1,0 +1,18 @@
+{
+	"name":"deploya",
+	"version":"0.0.1",
+    "dependencies":{
+        "express":"*",
+        "express-session":"*",
+        "connect":"*",
+        "morgan":"*",
+        "body-parser":"*",
+        "express-handlebars":"*",
+        "knex":"*",
+        "mysql":"*",
+        "underscore":"*",
+        "moment":"*",
+        "async":"*",
+		"sqlite3":"*"
+    }
+}
